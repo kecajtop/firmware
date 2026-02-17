@@ -6,7 +6,7 @@
                    "files":  [
                                  {
                                      "filename":  "ZakupyClient-Setup-0.2.1.exe",
-                                     "url":  "file:///C:/Users/jacek_buski/Documents/GitHub/Tester/firmware/zakupy/ZakupyClient-Setup-0.2.1.exe",
+                                     "url":  "file:///T:/zakupy/ZakupyClient-Setup-0.2.1.exe",
                                      "sha256":  "A0D3744BC2374DB0D129052F8C1CCD5E5BBAB3AC5F8FB1412859B02D85BA3016",
                                      "signature_url":  "",
                                      "signature_algorithm":  "sha256-rsa",
